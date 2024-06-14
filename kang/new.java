@@ -1,1 +1,1 @@
-//new java file add.
+// 냉무, 충돌 확인
