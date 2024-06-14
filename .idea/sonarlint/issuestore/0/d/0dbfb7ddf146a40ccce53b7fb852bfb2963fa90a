@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±³Ö›
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºˆ€«
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ş÷´
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª»Î¾ûÿÿÿÿ
+e	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù’d
+t
+java:S1488K"YImmediately return this expression instead of assigning it to the temporary variable "F".(ª»Î¾ûÿÿÿÿ
+n
+java:S1488T"YImmediately return this expression instead of assigning it to the temporary variable "B".(ìù’d
+7	java:S131""Add a default case to this switch.(¢Î‡…
+E	java:S106)"+Replace this use of System.out by a logger.(­ËÖşÿÿÿÿ
